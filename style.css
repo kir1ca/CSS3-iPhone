@@ -129,8 +129,10 @@
 	text-indent: -90px;
 	width: 16px;
 	height: 32px;
-	background: #CCC;
+	background: #F0F0F0;
 	line-height: 32px;
+	border-radius: 16px;
+	border: 1px solid #CCC;
 }
 
 .size-4s:active .frame {
